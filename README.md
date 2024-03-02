@@ -29,7 +29,7 @@ This project was developed with the following technologies:
 
 Habits is a web app that helps you to track your habits.
 
-- [Access the final project](https://guiemott.github.io/habits-tracker](https://guibs-code.github.io/habits-tracker)
+- [Access the final project](https://guibs-code.github.io/habits-tracker)
 
 ## 🔖 Layout
 
